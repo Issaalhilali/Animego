@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Anime</string>
+    <string name="published_at">تاريخ الصدور:</string>
+    <string name="depart">القسم:</string>
+    <string name="tsnif">التصنيف</string>
+    <string name="escip">عدد الحلقات:</string>
+    <string name="steate">حالة الانمي:</string>
+</resources>
